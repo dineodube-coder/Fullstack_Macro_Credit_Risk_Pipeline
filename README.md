@@ -4,10 +4,14 @@ An institutional-grade bank risk stress-testing and portfolio analytics pipeline
 Institutional Credit Risk Stress-Testing & Portfolio Analytics Pipeline Compliance Framework:  
 Basel III / IFRS 9 Forward-Looking Expected Credit Loss (ECL)                                                                           
 Target Architecture:    
-Commercial Banking Risk Management (Archetype: ZANACO Plc)
+Commercial Banking Risk Management (Archetype: ZANACO Plc)                                                                            
+
+
 
 
 ![Financial_Credit_Stress Dashboard](Financial_Credit_Stress_Dashboard.png)
+
+
 
 1. Executive Summary
 
