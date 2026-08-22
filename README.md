@@ -7,6 +7,8 @@ Target Architecture:
 Commercial Banking Risk Management (Archetype: ZANACO Plc)
 
 
+![Financial_Credit_Stress Dashboard](Financial_Credit_Stress_Dashboard.png)
+
 1. Executive Summary
 
 
